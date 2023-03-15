@@ -4,6 +4,8 @@ This is an example of a extension that I created in my last work to create maili
 ## Features
 You can use a command in the command pallete of vscode in this case called **"Test: templates"** that show you some options, first you can pick up the folder in your workspace where you want to save the template, next choice the template what you want and finally write some text at the end of the template's name to diference it. 
 
+![command](https://raw.githubusercontent.com/andresleonardobg/templates-vscode/main/assets/extension-command.gif)
+
 After all this preceso the extention will create a new file with a preset related to the selected template.
 
 Also you can use snippets to autocomplete some presets in the mail that you need.
@@ -13,6 +15,8 @@ For this example you can use this
 ### Snippets
 - testDobleColumna
 - testBoton
+
+![command](https://raw.githubusercontent.com/andresleonardobg/templates-vscode/main/assets/extension-snippets.gif)
 
 
 
