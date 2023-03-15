@@ -1,0 +1,33 @@
+{
+    "testOne" : {        
+        "prefix": "testDobleColumna",
+        "body": [
+            "<!--doble columna-->",
+            "<mj-section background-url=\"http://191n.mj.am/img/191n/3s/xm9.jpg\" background-repeat=\"no-repeat\" background-size=\"cover\" padding=\"20px 0\">",
+            "  <mj-column>",
+            "    <mj-text align=\"center\" color=\"#ffffff\" line-height=\"32px\" font-family=\"Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif\" font-size=\"28px\" padding=\"10px\">ARE YOU <br /> SEASCAPE?</mj-text>",
+            "  </mj-column>",
+            "  <mj-column width=\"50%\" vertical-align=\"bottom\">",
+            "    <mj-text align=\"center\" color=\"#ffffff\" line-height=\"32px\" font-family=\"Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif\" font-size=\"28px\" padding-top=\"180px\">OR <br /> CITYSCAPE?</mj-text>",
+            "  </mj-column>",
+            "</mj-section>",
+            "<!--doble columna-->"
+        ],
+        "description": "Crear una seccion de doble columna"
+    },
+    "testTwo" : {        
+        "prefix": "testBoton",
+        "body": [
+            "<!--boton-->",
+            "<mj-section>",
+            "  <mj-column>",
+            "    <mj-button font-family=\"Helvetica\" background-color=\"#f45e43\" color=\"white\">",
+            "      Don't click me!",
+            "    </mj-button>",
+            "  </mj-column>",
+            "</mj-section>",
+            "<!--boton-->"
+        ],
+        "description": "Crar un boton"
+    }
+}
